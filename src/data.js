@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://o.remove.bg/downloads/c82d8d7c-2031-4dc5-bbb9-31a05320e4f3/happy-shopper-woman-summer-dress-with-shopping-bags-holding-credit-card_8353-6975-removebg-preview.png",
+        img: "https://image.freepik.com/free-photo/happy-shopper-woman-summer-dress-with-shopping-bags-holding-credit-card_8353-6975.jpg",
         title: "SUMMER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "f5fafd",
@@ -70,7 +70,7 @@ export const popularProducts = [
     },
     {
         id:7,
-        img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+        img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
     },
     {
         id:8,
